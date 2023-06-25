@@ -1,8 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxygen&family=Pavanam&display=swap');
+
 * {
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
-}
+    font-family: 'Oxygen', sans-serif;
+    font-family: 'Pavanam', sans-serif;
 
 .banner {
     height: 100vh;
